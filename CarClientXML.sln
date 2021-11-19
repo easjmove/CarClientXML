@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.31911.196
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CarClientXML", "CarClientXML\CarClientXML.csproj", "{C47509DD-9AA5-4540-9EA4-6E0F6B997D58}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{C47509DD-9AA5-4540-9EA4-6E0F6B997D58}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C47509DD-9AA5-4540-9EA4-6E0F6B997D58}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C47509DD-9AA5-4540-9EA4-6E0F6B997D58}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C47509DD-9AA5-4540-9EA4-6E0F6B997D58}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {23B06CBD-81FA-4F3A-9029-B48A63E4DB6F}
+	EndGlobalSection
+EndGlobal
